@@ -4,6 +4,6 @@
   <link href=”estilos.css”>
  </head>
  <body>
- <?php echo '<p>Hola Mundo</p>'; ?>
+ <?php echo '<p>Hola amigos</p>'; ?>
  </body>
 </html>
